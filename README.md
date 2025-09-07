@@ -1,2 +1,5 @@
 # Ejemplo-GitHub_Pages
-Mi página de prueba
+
+---
+
+**Mi página de prueba**
